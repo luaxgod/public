@@ -1,16 +1,18 @@
 here's a free public hack you can use to execute alot of scripts :-).
 it uses a great vast vulnerability that currently exists,
-so while you take advantage of it I can work on my CLVM and also my other vulnerability thats actually pretty
-good lol, and cant be patched! 8-)
+so while you take advantage of it I can work on my CLVM and also my other
+vulnerability thats actually far greater lol, and cant be patched! 8-)
 
 literally just paste the Lua_API in your empty DLL project.
 and then do this: paste dllmain.cpp in your empty DLL project too.
 
 that's all you have to do omg.
 
-Then hit run. Oh ya before you do that, set the "Debug" option to "Release".
-and also fix the project settings; the comments at the top of dllmain.cpp will explain how.
+Then hit run. Oh and before you do that, set the "Debug" option to "Release".
+and also fix up the gay project settings; the comments at the top of dllmain.cpp will explain how.
 ok and now inject the DLL.
 you will literally be amazedddd
+
+if you get kicked just rejoin and try again; I include an anti-log.
 
 it's all yours; the whole shabang
