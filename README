@@ -9,5 +9,8 @@ and then do this: paste dllmain.cpp in your empty DLL project too.
 that's all you have to do omg.
 
 Then hit run. Oh ya before you do that, set the "Debug" option to "Release".
+and also fix the project settings; the comments at the top of dllmain.cpp will explain how.
 ok and now inject the DLL.
 you will literally be amazedddd
+
+it's all yours; the whole shabang
