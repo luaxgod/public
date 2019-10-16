@@ -3,13 +3,14 @@ it uses a great vast vulnerability that currently exists,
 so while you take advantage of it I can work on my CLVM and also my other
 vulnerability thats actually far greater lol, and cant be patched! 8-)
 
-literally just paste the Lua_API in your empty DLL project.
-and then do this: paste dllmain.cpp in your empty DLL project too.
+literally just paste the Lua_API in a DLL project.
+and then do this: paste dllmain.cpp in the DLL project too.
+Do the empty DLL project that comes with stdafx.h and that stuff already set up,
+but follow the instructions in dllmain.cpp.
 
 that's all you have to do omg.
 
-Then hit run. Oh and before you do that, set the "Debug" option to "Release".
-and also fix up the gay project settings; the comments at the top of dllmain.cpp will explain how.
+and before you hit run, set the "Debug" option to "Release".
 ok and now inject the DLL.
 you will literally be amazedddd
 
